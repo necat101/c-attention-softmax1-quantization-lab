@@ -1,0 +1,13 @@
+attention_lab
+attention_lab.exe
+attention_lab_check
+attention_lab_check.exe
+*.o
+*.obj
+zig-cache/
+.zig-cache/
+__pycache__/
+*.pyc
+*.gguf
+*normalized*.json
+*regenerated*
